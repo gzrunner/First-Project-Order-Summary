@@ -106,6 +106,10 @@ a:hover{
     body{
         min-width: 375px;
     }
+    .card{
+        min-width: 375px;
+    }
+
     .card > img{
         min-width: 375px;
     }
